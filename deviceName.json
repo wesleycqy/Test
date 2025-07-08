@@ -1,0 +1,20 @@
+[
+  {
+    "No": "1",
+    "device_name": "SWMYHQWL0AA-01CDX",
+    "ip_address": "10.49.220.5",
+    "IP REMARKS": "nan"
+  },
+  {
+    "No": "2",
+    "device_name": "SWMYHQWL0AA-01OR",
+    "ip_address": "10.49.220.90",
+    "IP REMARKS": "nan"
+  },
+  {
+    "No": "3",
+    "device_name": "SWMYHQWL0AA-04",
+    "ip_address": "10.49.220.92",
+    "IP REMARKS": "nan"
+  }
+]
